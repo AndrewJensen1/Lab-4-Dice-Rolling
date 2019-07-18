@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\obj\Debug\netcoreapp2.1\LAB 4 Dice Rolling.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\obj\Debug\netcoreapp2.1\LAB 4 Dice Rolling.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\obj\Debug\netcoreapp2.1\LAB 4 Dice Rolling.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\obj\Debug\netcoreapp2.1\LAB 4 Dice Rolling.AssemblyInfo.cs
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\bin\Debug\netcoreapp2.1\LAB 4 Dice Rolling.deps.json
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\bin\Debug\netcoreapp2.1\LAB 4 Dice Rolling.runtimeconfig.json
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\bin\Debug\netcoreapp2.1\LAB 4 Dice Rolling.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\bin\Debug\netcoreapp2.1\LAB 4 Dice Rolling.dll
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\bin\Debug\netcoreapp2.1\LAB 4 Dice Rolling.pdb
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\obj\Debug\netcoreapp2.1\LAB 4 Dice Rolling.dll
+C:\Users\Jense\source\repos\LAB 4 Dice Rolling\LAB 4 Dice Rolling\obj\Debug\netcoreapp2.1\LAB 4 Dice Rolling.pdb
